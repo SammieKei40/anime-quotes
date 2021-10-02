@@ -29,6 +29,7 @@ export default {
     #delete{
         color: rgb(252, 0, 0);
         font-size: 16px;
+        cursor: pointer;
     }
     .quote{
         background-color: #FFF;
